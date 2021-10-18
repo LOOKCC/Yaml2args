@@ -11,7 +11,7 @@ setuptools.setup(
     description="A simple pkg to update your yaml configs to args",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/pypa/sampleproject",
+    url="https://github.com/LOOKCC/Yaml2args",
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
