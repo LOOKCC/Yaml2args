@@ -1,7 +1,11 @@
 # Yaml to args
 A Sample code for you to update your yaml config to args.
 ## Usage
+You can use pip
+```
 pip install yaml2args==0.0.2
+```
+or just git clone this repository, even copy the code in ./yaml2args/tools.py to your code.
 ```
 from yaml2args import yaml2args
 import argparse
